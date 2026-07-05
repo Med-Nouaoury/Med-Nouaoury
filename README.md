@@ -80,4 +80,5 @@ const mohamed = {
   <img src="https://raw.githubusercontent.com/Med-Nouaoury/Med-Nouaoury/output/snake.svg" alt="snake" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Nouaoury&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=120&section=footer"/>
