@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Mohamed%20Nouaoury&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Mohamed+Nouaoury&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -80,4 +80,4 @@ const mohamed = {
   <img src="https://raw.githubusercontent.com/Med-Nouaoury/Med-Nouaoury/output/snake.svg" alt="snake" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Nouaoury&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
