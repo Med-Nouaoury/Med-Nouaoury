@@ -62,10 +62,7 @@ const mohamed = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Med-Nouaoury&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Nouaoury&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Med-Nouaoury&theme=radical&hide_border=true" />
