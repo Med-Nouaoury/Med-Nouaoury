@@ -24,7 +24,6 @@ const mohamed = {
   study: "Advanced Web Programming @ Institut Grasset",
   focus: ["Mobile Apps", "Web Platforms", "Products for the Moroccan market"],
   background: "Ex-pizzaiolo & plancha cook — I build tech AND food concepts 🍕🍗",
-  currentlyBuilding: "Alhawtta (الهوتة) — food anti-waste marketplace"
 };
 ```
 
