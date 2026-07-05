@@ -60,17 +60,6 @@ const mohamed = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Med-Nouaoury&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Med-Nouaoury&theme=radical&no-frame=true&column=7&margin-w=10" />
-</div>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
