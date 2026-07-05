@@ -60,44 +60,6 @@ const mohamed = {
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐟 Alhawtta (الهوتة)
-Moroccan food **anti-waste marketplace**
-- React Native / Expo + Node / Express / MySQL
-- Stripe subscriptions · GPS + Haversine filtering
-- node-cron pack scheduling · race-safe orders
-
-</td>
-<td width="50%" valign="top">
-
-### 🍗 Khbizza Grilla
-Street food **concept** — grilled chicken sandwiches in house-made bread. Branding + recipe R&D.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Aware
-Published **Chrome extension** — screen-time tracking
-- ⭐ Featured badge · 200+ users · positive reviews
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 livresgourmands.net
-Full-stack **e-commerce** — culinary books
-- React/Vite + Node/Express/MySQL · JWT auth
-- 58-test automated suite
-
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Stats
 
